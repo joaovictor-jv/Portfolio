@@ -3,6 +3,9 @@ section {
   heigth:680;
 }
 
+foto de perfil
+https://pfpmaker.com/
+
 Adicionar o projeto da calculadora tbm
 
 Atualização no Job Manager:

@@ -2,7 +2,7 @@
     background-color: #1F1717;
 }
 
-h2,h3,h5,a,p {
+h2,h3,h5,a,p, pre {
     color: #5AED83 !important;
 }
 
@@ -24,11 +24,6 @@ section {
 .sectionProjects{
     height: 700px;
 }
-
-/*
-width: 1349px;
-height: 535px;
-*/
 
 #buttonStart {
     border-radius: 25px;
@@ -63,6 +58,19 @@ height: 535px;
     z-index: 100;
 }
 
+#profileImg {
+    width: 300px;
+}
+
+.textAboutMe {
+    font-size: 18px;
+    width: 390px;
+}
+
+.aboutMe-box {
+    gap: 150px;
+}
+
 #titleSkills{
     margin-bottom: 70px;
 }
@@ -82,17 +90,7 @@ height: 535px;
 .project {
     background-color: #C4C4C4;
     height: 190px;
-    width: 300px;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-}
-
-.withOutProject {
-    display: flex;
-    background-image: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%);
-    height: 190px;
-    width: 300px;
+    width: 325px;
     align-items: center;
     justify-content: center;
     cursor: pointer;
@@ -114,7 +112,7 @@ footer {
 
 .imgProjects {
     height: 190px;
-    width: 310px;
+    width: 325px;
 }
 
 .zoom {
