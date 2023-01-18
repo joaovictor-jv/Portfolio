@@ -1,0 +1,133 @@
+.body {
+    background-color: #1F1717;
+}
+
+h2,h3,h5,a,p, pre {
+    color: #5AED83 !important;
+}
+
+a:hover {
+    color: #fff !important;
+}
+
+section {
+    width: 1349px;
+    height: 575px;
+}
+
+.sectionFirst {
+    width: 1349px;
+    height: 565px;
+    margin-top: 80px;
+}
+
+.sectionProjects{
+    height: 700px;
+}
+
+#buttonStart {
+    border-radius: 25px;
+    width: 150px;
+    height: 35px;
+    border: solid 1px #5AED83;
+    color: #5AED83;
+    background-color: transparent;
+}
+
+#buttonStart:hover {
+    background-color: #3acf63;
+    color: #fff;
+    font-weight: bold;
+}
+
+#navbarNavDropdown {
+    margin-right: 230px;
+}
+
+.navbar-custom {
+    width: 100%;
+    height: 5rem;
+    background-color: rgba(176, 172, 172, 0.11);
+    backdrop-filter: blur(10px);
+    border-bottom: solid 1px #999999;
+}
+
+.navbar {
+    position: fixed !important;
+    top: 0px;
+    z-index: 100;
+}
+
+#profileImg {
+    width: 300px;
+}
+
+.textAboutMe {
+    font-size: 18px;
+    width: 390px;
+}
+
+.aboutMe-box {
+    gap: 150px;
+}
+
+#titleSkills{
+    margin-bottom: 70px;
+}
+
+.icons:hover {
+    transform: scale(1.2);
+}
+
+.allProjects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    width: 100%;
+    justify-content: center;
+}
+
+.project {
+    background-color: #C4C4C4;
+    height: 190px;
+    width: 325px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.textProject {
+    color: #000 !important;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+footer {
+    width: 100%;
+    height: 10rem;
+    background-color: rgba(176, 172, 172, 0.11);
+    backdrop-filter: blur(10px);
+    border-top: solid 1px #999999;
+}
+
+.imgProjects {
+    height: 190px;
+    width: 325px;
+}
+
+.zoom {
+    overflow: hidden;
+}
+
+.zoom img {
+    transition: all 0.3s;
+}
+
+.zoom:hover img {
+    transform: scale(1.1);
+}
+
+#developed {
+    text-align: right;
+    margin-right: 20px;
+}
