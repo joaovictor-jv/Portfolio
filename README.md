@@ -6,7 +6,7 @@ Meu portfolio, onde mostrarei todos os meus projetos
 HTML • CSS • Bootstrap
 
 <h5>Link do portfolio online:</h5>
-https://myportfoliojv.netlify.app/
+https://joaovictor-jv.github.io/Portfolio/
 
 <br>
 <br>
